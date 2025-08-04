@@ -1,0 +1,6 @@
+figma: https://www.figma.com/design/c6NHYQem8G59odVSijIjl2/Movie-App-w--React-Native?node-id=2-2&p=f&t=TqaWQL3CS4CcjoQh-0
+
+sorce code: https://github.com/adrianhajdin/react-native-movie-app
+
+
+asset: https://github.com/adrianhajdin/react-native-movie-app/blob/main/README.md#links
